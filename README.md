@@ -1,8 +1,5 @@
 # 📊 Projekt analizy Sprzedaży Sieci Kawiarni w Power BI
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)](https://github.com/yourusername/coffee-shop-analysis)
-
 <div align="center">
   
   ### [📈 Zobacz interaktywny raport 📈](https://app.powerbi.com/view?r=eyJrIjoiMDJlNDM1NzAtNWZlMC00ZmQwLWI5OTMtMmU4YmMzYmRiM2FlIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
