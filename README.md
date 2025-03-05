@@ -6,6 +6,8 @@
   
 </div>
 
+Raport utworzony: 02.2024
+
 ### Problem biznesowy
 Sieć kawiarni potrzebowała narzędzia do efektywnego śledzenia i porównywania wyników sprzedażowych w trzech lokalizacjach (Hell's Kitchen, Astoria, Lower Manhattan), ze szczególnym uwzględnieniem:
 - Sezonowości sprzedaży
