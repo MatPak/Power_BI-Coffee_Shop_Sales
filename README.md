@@ -1,4 +1,4 @@
-# 📊 Projekt analizy Sprzedaży Sieci Kawiarni w Power BI
+# 📊 Projekt analizy sprzedaży sieci kawiarni w Power BI
 
 <div align="center">
   
