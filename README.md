@@ -1,4 +1,4 @@
-# 📊 Projekt analizy sprzedaży sieci kawiarni w Power BI
+# 📑 Projekt analizy sprzedaży sieci kawiarni w Power BI
 
 <div align="center">
   
@@ -60,23 +60,23 @@ Dane zostały zaimportowane z pliku Excel przy użyciu Power Query w celu odpowi
 ### Model danych
 Model zawiera następujące tabele:
 
-#### 📅 Calendar (tabela wymiarów)
+####  Calendar (tabela wymiarów)
 - Date, Day, Day_name
 - Month, month_name
 - Number_day_of_the_week
 - Quarter, Week Segment, Year
 
-#### 🧾 Transactions (tabela faktów)
+####  Transactions (tabela faktów)
 - Date, Full hours, Month
 - Location
 - Product_Category, Product_Category [group], Product_Detail, Product_ID, Product_Type
 - Quantity_of_Items
 - Store_ID, Time, Transaction_ID, Unit_Price
 
-#### 🏪 Store (tabela wymiarów)
+####  Store (tabela wymiarów)
 - Location, Store_ID
 
-#### 🕒 Hours (tabela wymiarów)
+####  Hours (tabela wymiarów)
 - Hour, Time Interval
 
 Model wykorzystuje schemat gwiazdy dla optymalnej wydajności zapytań i łatwości tworzenia miar.
@@ -94,13 +94,13 @@ Raport składa się z 5 głównych stron:
 
 ### Kluczowe wizualizacje
 
-#### 📊 Karty z miernikami KPI
+####  Karty z miernikami KPI
 - Całkowita sprzedaż: $699 tys.
 - Średnia miesięczna liczba transakcji: 25 tys.
 - Średnia dzienna liczba transakcji: 824
 - Średnia wartość transakcji na klienta: $4,69
 
-#### 📉 Wykresy
+####  Wykresy
 - Wykres liniowy trendów sprzedaży miesięcznej
 - Wykresy słupkowe porównujące sprzedaż między lokalizacjami
 - Wykres kołowy podziału sprzedaży według lokalizacji
@@ -108,7 +108,7 @@ Raport składa się z 5 głównych stron:
 - Wykres słupkowy dynamiki sprzedaży miesiąc do miesiąca
 - Wykresy godzinowe i dzienne rozkładu sprzedaży
 
-#### 📋 Tabele
+####  Tabele
 - Sprzedaż według kategorii produktów i lokalizacji
 - Typy produktów z ilościami, średnimi cenami i całkowitą sprzedażą
 
@@ -123,41 +123,41 @@ Raport składa się z 5 głównych stron:
 
 ### Kluczowe obserwacje
 
-#### 🏙️ Lokalizacje
+####  Lokalizacje
 Sprzedaż jest dość równomiernie rozłożona:
 - Hell's Kitchen: $237 tys. (33,84%)
 - Astoria: $232 tys. (33,23%)
 - Lower Manhattan: $230 tys. (32,92%)
 
-#### ☕ Produkty
+####  Produkty
 - Kategoria kawy dominuje w sprzedaży (38,63%, $270 tys.)
 - Następnie herbata (28,11%, $196 tys.)
 - Najpopularniejsze typy: Barista Espresso ($91,4 tys.) i Brewed Chai tea ($77 tys.)
 
-#### 🕒 Dynamika czasowa
+####  Dynamika czasowa
 - Wyraźny trend wzrostowy sprzedaży miesięcznej
 - Średnia sprzedaż w dni robocze jest nieznacznie wyższa niż w weekendy
 - Poranne godziny (przed 11:00) są niemal równie dochodowe ($342 tys.) co popołudniowe i wieczorne ($357 tys.)
 
-#### 👥 Zachowania klientów
+####  Zachowania klientów
 - Najwyższa średnia wartość transakcji: Lower Manhattan ($4,81)
 - Najniższa średnia liczba transakcji dziennie: Lower Manhattan (264 vs 280 w innych lokalizacjach)
 
 ### Rekomendacje
 
-#### 📋 Optymalizacja oferty produktowej
+####  Optymalizacja oferty produktowej
 - Rozszerzenie oferty najpopularniejszych produktów
 - Wprowadzenie promocji na mniej popularne kategorie
 
-#### 🏬 Strategia dla lokalizacji
+####  Strategia dla lokalizacji
 - Hell's Kitchen: koncentracja na sprzedaży ziaren kawy
 - Lower Manhattan: strategia zwiększenia liczby klientów
 
-#### ⏰ Optymalizacja według czasu
+####  Optymalizacja według czasu
 - Wprowadzenie specjalnych ofert weekendowych
 - Optymalizacja liczby personelu (więcej do 11:00, mniej później)
 
-#### 🚀 Rozwój biznesu
+####  Rozwój biznesu
 - Rozszerzenie oferty produktów o najwyższej marży
 - Program lojalnościowy w celu zwiększenia częstotliwości wizyt
 
