@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ### [📈 Zobacz interaktywny raport 📈](https://app.powerbi.com/view?r=eyJrIjoiMDJlNDM1NzAtNWZlMC00ZmQwLWI5OTMtMmU4YmMzYmRiM2FlIiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
+  ### [📈 Zobacz interaktywny raport 📈](https://app.powerbi.com/view?r=eyJrIjoiZDdkZDQzMjktYmU0MS00MTcyLTk5MTQtYmM2YTA0OTNmNmY3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
   
 </div>
 
