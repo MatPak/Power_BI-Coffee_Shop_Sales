@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  
-  ### Raport utworzony: 02.2025
+
   
 </div>
 
